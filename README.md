@@ -80,6 +80,14 @@
 
   </div>
 
+- lightsword是基于fabric开发的用于Minecraft 1.21.4版本的自定义剑mod（写着自己玩的）
+  
+  <div align=center>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=changshanzhao&repo=lightsword)](https://github.com/changshanzhao/lightsword)
+
+  </div>
+
 ## Thanks To
 
 - My Programming Pals:
